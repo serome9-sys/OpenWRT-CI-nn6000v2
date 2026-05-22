@@ -1,5 +1,4 @@
 #!/bin/bash
-git checkout immortalwrt-24.10
 # SPDX-License-Identifier: MIT
 # Copyright (C) 2026 VIKINGYFY
 
